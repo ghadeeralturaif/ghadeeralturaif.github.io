@@ -19,13 +19,13 @@ body {
 }
 
 a {
-	color: #99FF66;
+	color: #9F6;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
 a:hover {
-	color: #0000FF ;
+	color: #3CF;
 }
 
 p {
@@ -37,7 +37,7 @@ h2 {
 }
 
 .highlight {
-    color: #0000FF;
+    color: #99FF66;
 }
 
 .page-container {
@@ -61,7 +61,7 @@ h2 {
 .btn-primary {
     background-color: white;
     border: none;
-    color: blue;
+    color: #333;
 }
 
 .btn-primary:hover,
