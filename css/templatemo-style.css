@@ -61,7 +61,7 @@ h2 {
 .btn-primary {
     background-color: white;
     border: none;
-    color: #333;
+    color: blue;
 }
 
 .btn-primary:hover,
